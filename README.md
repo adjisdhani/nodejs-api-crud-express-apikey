@@ -1,2 +1,2 @@
-# nodejs-api-crud-express-passport
-NodeJS API CRUD with Express and Passport.js Authentication
+# nodejs-api-crud-express-apikey
+NodeJS API CRUD with Express and API KEY Authentication
